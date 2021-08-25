@@ -1,10 +1,10 @@
-# Glad to see you, I'm [Aki](#)!
-
-<img src="https://wallpapers.com/images/high/anime-girl-4vsnd1uqa5aileg0.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="static/banner.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ## I'm currently actively finding a tech internship (remote or in Hanoi), and a mentorship in studying abroad at the USA
 
 ## About me
+<img align="right" alt="Coding" width="400" src="static/productive.gif">
+
 - ***I'm a 17 years old high school student, studying informatics at High School for Gifted Students, Hanoi National University of Education***
 - My favourite area is cyber security, especially penetration testing
 - My go-to programming language is Python, and my favourite framework is Django. I can also do some C++ (for machine-level related tasks) and Dart (mostly for Flutter)
@@ -20,8 +20,14 @@
   + **Data Science**. Although by far everything I've done is just tutorials and some contests on Kaggle.
   + **Piano**. Mostly play anime songs, thou. Currently trying OldTangPiano's cover of Yoru ni Kakeru.
 
+<img align="left" alt="Coding" width="400" src="static/writing_code.gif">
+
+# Technology Stacks
+
+
 ## Contact
 
+<br>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-akihakune&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
