@@ -23,13 +23,30 @@
 <img align="left" alt="Coding" width="400" src="static/writing_code.gif">
 
 # Technology Stacks
-
+<p>
+  <a href=""><img alt="android" width="70" src="static/android.svg"></a>
+  <a href=""><img alt="cpp" width="70" src="static/cpp.svg"></a>
+  <a href=""><img alt="debian" width="70" src="static/debian.svg"></a>
+  <a href=""><img alt="django" width="70" src="static/django.svg"></a>
+  <a href=""><img alt="flutter" width="70" src="static/flutter.svg"></a>
+  <a href=""><img alt="linux" width="70" src="static/linux.svg"></a>
+  <a href=""><img alt="markdown" width="70" src="static/markdown.svg"></a>
+  <a href=""><img alt="python" width="70" src="static/python.svg"></a>
+  <a href=""><img alt="raspberry" width="70" src="static/raspberry.svg"></a>
+  <a href=""><img alt="windows" width="70" src="static/windows.svg"></a>
+</p>
+<br/><br/>
 
 ## Contact
-
-<br>
+<p>
+  <a><img alt="mail" width="70" src="static/mail.svg"></a>
+  <a href=""><img alt="twitter" width="70" src="static/twitter.svg"></a>
+  <a href=""><img alt="discord" width="70" src="static/discord.svg"></a>
+  <a href=""><img alt="facebook" width="70" src="static/facebook.svg"></a>
+</p>
+<br/>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-akihakune&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-akihakune&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=git-akihakune&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-akihakune&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
