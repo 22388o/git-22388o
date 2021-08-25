@@ -23,7 +23,6 @@
 <img align="left" alt="Coding" width="400" src="static/writing_code.gif">
 
 # Technology Stacks
-- Quite comfortable with:
 <p>
   <a href="https://developer.android.com/"><img alt="android" width="70" src="static/android.svg"></a>
   <a href="https://isocpp.org/"><img alt="cpp" width="70" src="static/cpp.svg"></a>
