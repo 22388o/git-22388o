@@ -1,11 +1,11 @@
 <img src="static/banner.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
-## I'm currently actively finding a tech internship (remote or in Hanoi), and a mentorship in studying abroad at the USA
+## I'm currently looking for a tech internship (remote or in Hanoi), and a mentorship in studying abroad at the USA
 
 ## About me
 <img align="right" alt="Coding" width="400" src="static/productive.gif">
 
-- ***I'm a 17 years old high school student, studying informatics at High School for Gifted Students, Hanoi National University of Education***
+- ***I'm a 17 years old high schooler, studying informatics at High School for Gifted Students, Hanoi National University of Education***
 - My favourite area is cyber security, especially penetration testing
 - My go-to programming language is Python, and my favourite framework is Django. I can also do some C++ (for machine-level related tasks) and Dart (mostly for Flutter)
 
