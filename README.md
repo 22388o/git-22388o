@@ -1,4 +1,4 @@
-<img src="static/banner.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="static/banner.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
 ## I'm currently looking for a tech internship (remote or in Hanoi), and a mentorship in studying abroad at the USA
 
