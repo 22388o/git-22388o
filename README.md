@@ -10,7 +10,7 @@
 - **Aiming for :**
   + **OSCP**. Hope I can "Try Harder" and make it the first time.
   + **SAT**. A decent SAT score is required for universities' admissions.
-  + **IELTS**. Aiming at band 7.5.
+  + **IELTS**. Aiming for band 7.5.
   
 - **Hobbies :**
   + **Rocket Science**. Because [make life multiplanetary](https://www.spacex.com/mission/) sounds exhilarating
